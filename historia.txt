@@ -3,3 +3,5 @@ mi edad:20
 no se que hago aqui pero a ver que sale 
 mis apellidos son Altamirano Hernández
 Yo tengo un perro y muchos gatos como mascotas
+
+cambio para comando diff
