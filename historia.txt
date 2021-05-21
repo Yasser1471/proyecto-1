@@ -5,3 +5,4 @@ mis apellidos son Altamirano Hernández
 Yo tengo un perro y muchos gatos como mascotas
 
 cambio para comando diff
+esta es mi vida
